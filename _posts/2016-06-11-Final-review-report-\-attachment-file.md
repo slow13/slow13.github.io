@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create flowcharts and final review report (attachment file)"
+title:  "Final review report - attachment file"
 date:   2016-06-11 16:36:24 +0900
 categories: computer system design
 ---
