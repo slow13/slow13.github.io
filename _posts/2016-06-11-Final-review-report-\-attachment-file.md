@@ -27,4 +27,4 @@ categories: computer system design
  - Github의 팀프로젝트에 올라와 있는 자료들과 보고서들을 참고하고 규합하여 이 제품의 용도, 발전가능성 등을 작성하여 한 곳에 뭉쳐 이 제품이 무엇인지를 설명한다.
 
 최종 보고서 파일
-[IoT Design Report](/asset/IoT_Design_Report.pdf)
+[IoT Design Report](http://slow13.github.io/asset/IoT_Design_Report.pdf)
